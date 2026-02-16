@@ -2,11 +2,6 @@
 
 **A powerful text manipulation tool built with React and Vite for the modern web.**
 
-![1759154919444](https://github.com/user-attachments/assets/7556ae7d-d884-49ae-bd91-81045b2ae933)
-<h2 align="center">
-  <strong>🎉 WOCS:</strong> We are excited to be a part of Code Social!
-</h2>
-
 ---
 
 [![Live Demo](https://img.shields.io/website?url=https%3A%2F%2Fwordwizard-texteditor.netlify.app&up_color=brightgreen&up_message=online&down_message=offline&label=Live%20Demo)](https://wordwizard-texteditor.netlify.app)
